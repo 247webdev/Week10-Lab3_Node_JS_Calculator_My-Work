@@ -1,0 +1,19 @@
+{
+  "name": "node_calculator",
+  "version": "1.0.0",
+  "description": "first node app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/247webdev/Week10-Lab3_Node_JS_Calculator_My-Work.git"
+  },
+  "author": "Christian Chandler",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/247webdev/Week10-Lab3_Node_JS_Calculator_My-Work/issues"
+  },
+  "homepage": "https://github.com/247webdev/Week10-Lab3_Node_JS_Calculator_My-Work"
+}
